@@ -14,8 +14,10 @@ Le choix final du modèle se fera en fonction de leur performance respective.
 
 ## Données
 Nous disposons de deux jeux de données distincts :
-1. **Caractéristiques des clients** : contenant diverses informations descriptives.
-2. **Variable cible** : indiquant si un client est un bon ou un mauvais payeur.
+1. **application_record** : contenant diverses caractéristiques des clients.
+2. **credit-record** : contenant des informations qui vont permettre de construire la variable cible : bon ou un mauvais payeur.
+
+Nous disposons également d'un fichier description_vars qui présente et qui décrit le role de chaque variable explicative.
 
 ## Approche Méthodologique
 Le projet suivra les étapes suivantes :
