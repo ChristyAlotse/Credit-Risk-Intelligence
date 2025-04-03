@@ -34,11 +34,6 @@ Ce processus rigoureux nous permettra d'optimiser la détection des mauvais paye
 - Python 3.x
 - Bibliothèques : pandas, numpy, scikit-learn, matplotlib, seaborn
 
-## Installation
-Clonez ce référentiel et installez les dépendances nécessaires :
-```bash
-pip install -r requirements.txt
-```
 
 ## Utilisation
 1. Charger les données et effectuer l'analyse préliminaire.
@@ -47,7 +42,7 @@ pip install -r requirements.txt
 4. Choisir le modèle le plus performant et l'optimiser.
 
 ## Auteurs
-- Alotse Christy
+Alotse Christy
 
 
 
